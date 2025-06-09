@@ -34,6 +34,8 @@ Para lanzar esta visualización en local:
 
 3- Abrir el archivo index.html con "Live Server" (es posible que sea necesario instalar una extensión).
 
+También se puede ver la visualización publicada en Github Pages aquí: https://andoniiribarren.github.io/practica_visualizacion_datos/
+
 
 ## Licencia
 
