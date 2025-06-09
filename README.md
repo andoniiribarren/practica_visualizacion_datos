@@ -27,8 +27,11 @@ Los archivos en este repositorio son los siguientes:
 
 ## Instrucciones para ejecutar en local
 Para lanzar esta visualización en local:
+
 1- Descargar los archivos en una carpeta
+
 2- Abrir la carpeta con VSCode (como sugerencia)
+
 3- Abrir el archivo index.html con "Live Server" (es posible que sea necesario instalar una extensión).
 
 
