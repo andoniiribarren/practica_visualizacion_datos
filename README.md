@@ -39,7 +39,7 @@ También se puede ver la visualización publicada en Github Pages aquí: https:/
 
 ## Licencia
 
-Este proyecto está disponible bajo la licencia MIT.
+Este proyecto está disponible bajo la licencia GNU GENERAL PUBLIC LICENSE.
 
 Los datos utilizados provienen de Kaggle y están publicados bajo licencia pública:
 https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024
